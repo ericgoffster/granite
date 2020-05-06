@@ -33,7 +33,8 @@ Here are the hallmarks of the "Granite Seal of Approval"
 2. 100% binary backwards compatibility with previous version of your product
 3. Small Size (2 packages ideal: one protected, one public)
 4. Targeted Scope (1 unified purpose)
-5. Copious Testing (testing functionality and code coverage)
+5. No Frameworks!  Build low-level tools useful for higher levels.
+6. Copious Testing (testing functionality and code coverage)
 7. Source Code contained within the jar (source (functional and testing) should be public)
 8. Javadoc contained within the jar
 9. Type safety (this is why you are using java to begin with)
